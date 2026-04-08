@@ -207,7 +207,3 @@ This project is for educational and internship purposes.
 
 ---
 
-## 👨‍💻 Author
-
-**Shashikanth**
-B.Tech Student | Python Developer | Future ML Engineer 🚀
